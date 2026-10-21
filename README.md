@@ -36,7 +36,7 @@ El resultado se expresa en centímetros cuadrados (cm²).
 
 ## Estructura del proyecto
 
-```text
+
 CALCULOAREA/
 ├── .gitignore
 ├── LICENSE
