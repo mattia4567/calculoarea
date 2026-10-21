@@ -1,1 +1,42 @@
+# Ejecutables compilados
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
 
+# Archivos de depuración
+*.pdb
+*.ilk
+*.idb
+*.gch
+
+# Carpetas de compilación
+build/
+bin/
+obj/
+Debug/
+Release/
+
+# Configuración de Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.user
+
+# Configuración de Visual Studio Code
+.vscode/
+!.vscode/extensions.json
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+*~
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
