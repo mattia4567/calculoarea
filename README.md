@@ -16,14 +16,23 @@ Estructura
 
 /CALCULOAREA/
 ├── .gitignore
+
 ├── LICENSE
+
 ├── README.md
+
 ├── Docs/
-│   └── InformeProyectoCALCULOAREA.pdf
+
+│  └── InformeProyectoCALCULOAREA.pdf
+
 ├── src/
+
 │   └── main.cpp
+
 └── Capturas/
+
     ├── compilacion_area.png
+
     └── diagrama_flujo.png
 **
 Compilación en Windows
